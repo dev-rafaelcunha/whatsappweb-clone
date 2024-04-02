@@ -1,0 +1,57 @@
+header {
+    background-color: #eeeeee;
+    height: 6vh;
+}
+
+img {
+    height: 45px;
+    width: 45px;
+}
+
+.checked {
+    font-size: 13px;
+}
+
+main {
+    background-color: #e5ddd5;
+    height: 87vh;
+}
+
+footer {
+    height: 7vh;
+    background-color: #eeeeee;
+}
+
+#search {
+    height: 5vh;
+    background-color: #f8f8f8;
+}
+
+.time {
+    font-size: 0.8em;
+    color: #999999;
+}
+
+.badge-success {
+    background-color: #09d261;
+}
+
+#panel-left {
+    border-right: #dbdbdb 1px solid;
+    color: #4d4d4d;
+}
+
+#panel-left small {
+    color: #9b9b9b;
+}
+
+.list-group-item {
+    border-left: none;
+    border-right: none;
+    border-color: #f8f8f8;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
